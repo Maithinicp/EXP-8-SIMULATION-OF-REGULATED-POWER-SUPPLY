@@ -33,6 +33,9 @@ Procedure
 ________________________________________
 CIRCUIT DIAGRAM:
 
+<img width="1913" height="975" alt="Screenshot 2026-11-17 212016" src="https://github.com/user-attachments/assets/68a6f9b2-adaa-4379-8acf-8ba4d0e4c481" />
+
+
 AC INPUT WAVEFORM:
 The AC input waveform is observed in LTspice before applying it to the transformer.
 <img width="1917" height="1016" alt="Screenshot 2026-11-17 204346" src="https://github.com/user-attachments/assets/634a2fbb-e28a-4760-addd-3b69cac0a3f2" />
@@ -42,8 +45,8 @@ OUTPUT GRAPHH:
 
 SIGNAL OUTPUT(WITHOUT FILTER)
 The output of the bridge rectifier is observed. The waveform is a pulsating DC waveform.
-<img width="1916" height="1017" alt="Screenshot 2026-11-17 204233" src="https://github.com/user-attachments/assets/c93474f4-f8dd-4343-baa5-a8546360a637" />
-<img width="1912" height="1012" alt="Screenshot 2026-11-17 205130" src="https://github.com/user-attachments/assets/89d7fd72-dae9-419d-aeaa-6ba23cfb4598" />
+
+<img width="1915" height="1016" alt="Screenshot 2026-11-17 212328" src="https://github.com/user-attachments/assets/8c5f24d3-01df-4fbc-b1f7-a46f856b92e5" />
 
 
 SIGNAL OUTPUT(WITH FILTER)
