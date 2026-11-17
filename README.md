@@ -1,9 +1,14 @@
 # EXP-8-SIMULATION-OF-REGULATED-POWER-SUPPLY
 Aim
+
 To design and simulate a complete AC to DC power supply using LTspice, consisting of a transformer, bridge rectifier, smoothing capacitor, Zener diode, voltage regulator and load, and to observe the output waveform at each stage. 
+
 Software Required
+
 LTspice
+
 Components Required
+
 •	AC source 
 •	Transformer 
 •	Diodes – 4 
